@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+https://docs.google.com/document/d/19f67_N1D-NPtrNBj1iuEmYM6TGd9guxHLJhM_UNSmRM/edit
 ### Features
 Include Features here
 ### Technologies
@@ -16,3 +16,4 @@ Include Technologies here
 Include what you will need to learn here
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/FlCbsf59/liftoff-project
